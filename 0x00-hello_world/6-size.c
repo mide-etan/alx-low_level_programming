@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * msin - print the size of various types
+ * main - print the size of various types
  *
  * Description: print the size of various types on the computer
  * it is compiled and run on
