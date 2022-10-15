@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - Entry
+ * main - Enrty
  *
- * Return; Always 0 (Success)
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	char la;
+
 	for (la = 'a'; la <= 'z'; la++)
 	{
 		if (la != 'e' && la != 'q')
