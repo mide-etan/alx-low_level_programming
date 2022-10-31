@@ -14,5 +14,9 @@ int _isupper(int c)
 	if (c >= 'A' && c <= 'Z')
 		return (1);
 
+<<<<<<< HEAD
 	return (0);
+=======
+		return (0);
+>>>>>>> 226a72564606832c86c37166339b9f31e17fcbeb
 }
