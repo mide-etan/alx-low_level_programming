@@ -3,14 +3,12 @@
 /**
  * print_numbers - function prints numbers from 0 to 9
  *
- *@c: variable that prints numbers
- *
- *Return: Return 0
+ *Return: Always 0
  */
 
 void print_numbers(void c)
 {
-	int c;
+	int c = 0;
 
 	while (c < 10)
 	{
