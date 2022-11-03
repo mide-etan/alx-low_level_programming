@@ -12,9 +12,10 @@ void print_numbers(void c)
 {
 	int c;
 
-	for (c < 10)
+	while (c < 10)
 	{
 		_putchar(c++ + '0');
 	}
+	_putchar('\n');
 	return (0);
 }
