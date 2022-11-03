@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - function prints numbers from 0 to 9
- *
+ *@c: character to print number
  *Return: Always 0
  */
 
@@ -15,5 +15,4 @@ void print_numbers(void c)
 		_putchar(c++ + '0');
 	}
 	_putchar('\n');
-	return (c);
 }
