@@ -14,7 +14,7 @@ void print_numbers(void c)
 
 	for (c < 10)
 	{
-		putchar(c++ + '0');
+		_putchar(c++ + '0');
 	}
 	return (0);
 }
