@@ -10,9 +10,9 @@
 
 void print_numbers(void c)
 {
-	for(int c = 0; c < 10; c++)
+	for (int c = 0; c < 10; c++)
 	{
-		putchar(c);
+		putchar(c++ + '0');
 	}
 	return (0);
 }
