@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void more_numbers(void n)
+void more_numbers(void)
 {
 	int line, n, repeat, limit;
 
