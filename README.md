@@ -10,6 +10,8 @@ but the outcome is a piece of art,, followed by a new line.
 Size is not grandeur, and territory does not make a nation
 a C program that prints the size of various types on the computer it is compiled and run on.
 0x03 C -Debugging.
+0x04-more_functions_nested_loops
+0x05-pointers_arrays_strings
 0x06-pointers_arrays_strings
 0x0C-more_malloc_free
 0x13-more_singly_linked_lists  tes.c
